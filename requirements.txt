@@ -1,6 +1,6 @@
 pandas==1.2.4
-anaconda==
 streamlit==1.14.1
 streamlit-player==0.1.5
 matplotlib==3.3.4
 python==3.6
+
