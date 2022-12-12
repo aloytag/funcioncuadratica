@@ -112,11 +112,11 @@ with tab4:
     col1, col2 = st.columns(2)
 
     with col1:
-        st.image('./concava.png')
+        st.image('./concava.PNG')
         st.write('Función')
 
     with col2:
-        st.image('./convexa.png')
+        st.image('./convexa.PNG')
         st.write('Función')
         
     
