@@ -49,20 +49,20 @@ with tab2:
     Esta dada por el signo del coeficiente principal a. Es decir que si a > 0, la concavidad es positiva y si a < 0, la concavidad es negativa.\n
     """
     
-    st.image('./concavidad.png')                 
+    st.image('./concavidad.PNG')                 
     
     """ 
     **Ordenada en el origen**\n
     Es la ordenada del punto de intersección entre la parábola y el eje de las ordenadas. Se halla, calculando la imagen de cero, **f(0)**.
     Si la función se encuentra expresada en forma polinómica la orednada en el origen coincide con el termino independiente **(c)**.
     """
-    st.image('./ordenada en el origen.png')
+    st.image('./ordenada en el origen.PNG')
     """
     **Raíces**\n
     Son los valores del dominio para los cuales la función vale cero. Se hallan resolviendo la ecuación cuadrática.\n
     __a.x\u00b2+b.x+c = 0__\n
     """
-    st.image('./raices.png')
+    st.image('./raices.PNG')
 
     """ 
     **Eje de simetría**\n
@@ -74,7 +74,7 @@ with tab2:
     **Vértice**\n
     Es el punto de intersección de la parábola con el eje de simetría. Las coordenadas del vértice.\n
     """
-    st.image('./vertice.png')
+    st.image('./vertice.PNG')
 
 with tab3:
     """
